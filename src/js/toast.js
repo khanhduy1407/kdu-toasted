@@ -13,7 +13,7 @@ require('es6-object-assign').polyfill();
  * @returns {Toasted}
  * @constructor
  */
-export const Toasted = function (_options) {
+export let Toasted = function (_options) {
 
 	/**
 	 * Unique id of the toast
