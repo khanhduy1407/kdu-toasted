@@ -63,6 +63,6 @@
     "kdu-template-compiler": "^2.5.24",
     "webpack": "^2.7.0",
     "webpack-bundle-analyzer": "^2.13.1",
-    "webpack-dev-server": "^2.11.3"
+    "webpack-dev-server": "^4.11.1"
   }
 }
